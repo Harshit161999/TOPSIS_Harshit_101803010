@@ -32,4 +32,3 @@ setup(
     'Programming Language :: Python :: 3.5',
   ],
 )
-view rawsetup.py hosted with ❤ by GitHub
