@@ -22,7 +22,13 @@ setup(
     'Intended Audience :: Developers',      # Define that your audience are developers
     'Topic :: Software Development :: Build Tools',
     'License :: MIT License',   # Again, pick a license
+    'Operating System :: POSIX :: Linux :: Windows',
     'Programming Language :: Python :: 3.6',      #Specify which pyhton versions that you want to support
+    'Programming Language :: Python :: 2',
+    'Programming Language :: Python :: 2.7',
+    'Programming Language :: Python :: 3',
+    'Programming Language :: Python :: 3.4',
+    'Programming Language :: Python :: 3.5',
   ],
 )
 view rawsetup.py hosted with ❤ by GitHub
