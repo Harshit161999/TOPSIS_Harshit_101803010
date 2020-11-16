@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
   name = 'TOPSIS_Harshit_101803010',         # How you named your package folder (MyLib)
   packages = ['TOPSIS_Harshit_101803010'],   # Chose the same as "name"
-  version = '0.1',      # Start with a small number and increase it with every change you make
+  version = '0.2',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'Implementation of TOPSIS',   # Give a short description about your library
   author = 'Harshit singh Guleria',                   # Type in your name
